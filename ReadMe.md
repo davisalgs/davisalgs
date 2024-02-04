@@ -1,5 +1,6 @@
+Olá, sou Davi Salgueiro
 #  About Me:
-🔭Olá, sou Davi Salgueiro<br>💬 Estudando para ser um Desenvolvedor Front-end<br>⚡ Estudando HTML, CSS e Js
+💬 Estudando para ser um Desenvolvedor Front-end<br>⚡ Estudando HTML, CSS e Js
 
 
 ## 🌐 Socials:
