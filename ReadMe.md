@@ -42,9 +42,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/davisalgs/davisalgs/output/snake.svg" alt="Snake animation" />
-
-###
