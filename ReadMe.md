@@ -1,5 +1,5 @@
 # 👋Olá, me chamo Davi
-🧑‍💻 Sobre mim:<br>Atualmente estou cursando Ciência da Computação e estou buscando minha primeira oportunidade como estagiário na área de desenvolvimento, com<br>interesse em atuar como desenvolvedor, seja Front-end, Back-end ou Full Stack. Tenho<br>uma base sólida em linguagens de programação e tecnologias web, e estou em constante<br>aprendizado para ampliar meus conhecimentos e acompanhar as tendências do mercado
+🧑‍💻 Sobre mim:<br>Atualmente estou cursando Ciência da Computação e estou buscando minha primeira oportunidade como estagiário na área de desenvolvimento, com interesse em atuar como desenvolvedor, seja Front-end, Back-end ou Full Stack. <br>Tenho uma base sólida em linguagens de programação e tecnologias web, e estou em constante aprendizado para ampliar meus conhecimentos e acompanhar as tendências do mercado.
 
 
 ## 🌐 Socials:
