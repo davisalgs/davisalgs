@@ -1,5 +1,5 @@
 # 👋Olá, me chamo Davi
-🧑‍💻 Sobre mim:<br>Sou estudante de Ciência da Computação na Universidade de Fortaleza e estou buscando minha primeira oportunidade como estagiário na área de desenvolvimento, com interesse em atuar como desenvolvedor, seja Front-end, Back-end ou Full Stack. <br>Tenho uma base sólida em lógica de programação e venho focando meus estudos tecnologias web, estou em constante aprendizado para ampliar meus conhecimentos e acompanhar as tendências do mercado.
+🧑‍💻 Sobre mim:<br>Sou estudante de Ciência da Computação na Universidade de Fortaleza e estou buscando minha primeira oportunidade como estagiário na área de desenvolvimento, com interesse em atuar como desenvolvedor, seja Front-end, Back-end ou Full Stack. <br>Tenho uma base sólida em lógica de programação e venho focando meus estudos em React.Js e consumo de APIs Rest. Estou em constante aprendizado para ampliar meus conhecimentos para acompanhar as tendências do mercado e conseguir ingressar na área.
 
 
 ## 🌐 Socials:
