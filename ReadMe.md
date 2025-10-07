@@ -1,9 +1,8 @@
 # Hey 👋 What's up?
 
-Meu nome é **Davi Salgueiro** e sou estudante de Ciência da Computação na Universidade de Fortaleza (Unifor).  
-Atualmente estou buscando minha primeira oportunidade como estagiário na área de desenvolvimento — seja **Front-End**, **Back-End** ou **Full Stack**.  
-Tenho uma base sólida em lógica de programação e venho focando meus estudos em **React.js** e consumo de **APIs REST**.  
-Estou em constante aprendizado para ampliar meus conhecimentos e acompanhar as tendências do mercado.
+Meu nome é **Davi Salgueiro** e sou Desenvolvedor Full Stack graduando em Ciência da Computação pela Universidade de Fortaleza, desenvolvo projetos pessoais para consolidar meus conhecimentos e ampliar minhas habilidades. Atualmente, estou cursando a Formação Full Stack JavaScript da OneBitCode, com ênfase em React, além de possuir experiência no desenvolvimento de APIs REST com Spring e Java, integrando front-end, back-end e banco de dados.
+
+Busco constantemente aprender novas tecnologias que contribuam para a criação de soluções eficientes, escaláveis e de impacto positivo para usuários e equipes.
 
 ---
 
