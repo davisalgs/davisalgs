@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Meu nome é **Davi Salgueiro** e sou **Desenvolvedor Full Stack**, graduando em **Ciência da Computação** pela **Universidade de Fortaleza (UNIFOR)**, atualmente no 7º semestre.
+Meu nome é **Davi Salgueiro** e sou **Desenvolvedor Full Stack**, graduando em **Ciência da Computação** pela **Universidade de Fortaleza (UNIFOR)**, atualmente no 8º semestre.
 
 Tenho experiência prática como **estagiário de desenvolvimento de software**, atuando com **Python/Django** e **React** no back-end e front-end de aplicações web. Desenvolvo **APIs REST** e integro sistemas completos — do banco de dados à interface do usuário.
 
