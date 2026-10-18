@@ -11,14 +11,14 @@ Sou movido por resolver problemas reais com código limpo, bem estruturado e esc
 
 # 💻 Tecnologias que utilizo:
 
-### 🖥️ Front-end:
-[![Front-end Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind)](https://skillicons.dev)
-
 ### ⚙️ Back-end:
-[![Back-end Skills](https://skillicons.dev/icons?i=java,spring,python,django,fastapi,nodejs)](https://skillicons.dev)
+[![Back-end Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,)](https://skillicons.dev)
+
+### 🖥️ Front-end:
+[![Front-end Skills](https://skillicons.dev/icons?i=react,vite,next,tailwind,ts,js,html,css)](https://skillicons.dev)
 
 ### 🗄️ Banco de Dados:
-[![Database Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql)](https://skillicons.dev)
+[![Database Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas e Versionamento:
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,idea)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,docker,postman,linux,vscode,idea,ubuntu)](https://skillicons.dev)
