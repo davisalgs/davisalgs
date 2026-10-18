@@ -1,7 +1,7 @@
 # 💫 Sobre mim:
 Meu nome é **Davi Salgueiro** e sou **Desenvolvedor Full Stack**, graduando em **Ciência da Computação** pela **Universidade de Fortaleza (UNIFOR)**, atualmente no 8º semestre.
 
-Atuo como **estagiário de desenvolvimento de software**, trabalhando com **Java e Spring Boot** no desenvolvimento de **microsserviços**, utilizando bancos de dados relacionais e não relacionais (**PostgreSQL** e **MongoDB**). 
+Atuo como **estagiário de desenvolvimento back-end**, trabalhando com **Java e Spring Boot** no desenvolvimento de **microsserviços**, utilizando bancos de dados relacionais e não relacionais (**PostgreSQL** e **MongoDB**). 
 
 Também possuo experiência com **Python (Django e FastAPI)** e **React**, desenvolvendo **APIs REST** e integrando aplicações completas, do banco de dados à interface do usuário.
 
